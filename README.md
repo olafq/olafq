@@ -1,7 +1,6 @@
-# This is an <h1> tag
+# Hola, soy Olaf Querol 👋 <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
-Hola, soy Olaf Querol 👋
 👨‍💻Soy estudiante de Ingeniería en Sistemas de Información
 📚 Cursando Segundo año en la UTN FRBA
 👯 Buscando colaborar en proyectos y aprender
