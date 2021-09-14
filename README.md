@@ -2,14 +2,10 @@
 ## Soy estudiante de Ingeniería en Sistemas de Información 👨‍💻 <h2> tag
   
   * 📚 Cursando Segundo año en la UTN FRBA
-* 👯 Buscando colaborar en proyectos y aprender
+  * 👯 Buscando colaborar en proyectos y aprender
   * ⚽ Amante de los deportes
-  * Item 2b
+  * 😄 20 años de edad
+  * 📫 Podes contactarme en olafquerol@gmail.com
 
-*📚 Cursando Segundo año en la UTN FRBA
-*
-*⚽ Amante de los deportes
-*😄 20 años de edad
-*📫 Podes contactarme en olafquerol@gmail.com
 ## Lenguajes y conocimientos 🛠 <h2> tag
 C C++  Markdown Git GitHub VSCode  Windows excel
