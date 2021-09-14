@@ -1,5 +1,5 @@
-# Hola, soy Olaf Querol 👋 <h1> tag
-## 👨‍💻Soy estudiante de Ingeniería en Sistemas de Información <h2> tag
+# Hola, soy Olaf Querol 👋 <h1> 
+## Soy estudiante de Ingeniería en Sistemas de Información 👨‍💻 <h2> tag
 ###### This is an <h6> tag
 📚 Cursando Segundo año en la UTN FRBA
 👯 Buscando colaborar en proyectos y aprender
