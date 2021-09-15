@@ -5,9 +5,5 @@
   * 😄 20 años de edad
   * 📫 Podes contactarme en olafquerol@gmail.com 
 ## Lenguajes y conocimientos 🛠 <h2> 
- 
- ![GitHub Logo](/Escritorio/C.png)
-Format: ![Alt Text](url)
- 
- 
+ !https://img2.freepng.es/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg
  C C++  Markdown Git GitHub VSCode  Windows excel
