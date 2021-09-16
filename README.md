@@ -1,6 +1,6 @@
 # Hola, soy Olaf Querol 👋 <h1>   Estudiante de Ingeniería en Sistemas de Información 👨‍💻<h2>  
   * 📚 Actualmente cursando **Segundo año** en la ***UTN FRBA***
-  * 📚 Seundario Completo en el Instituto Santa Maria
+  * 📚 Seundario Completo en el ***Instituto Santa Maria***
   * 👯 Buscando participar en proyectos y aprender
   * ⚽ Amante de los deportes
   * 😄 20 años de edad
