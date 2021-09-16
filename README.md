@@ -1,4 +1,4 @@
-# Hola, soy Olaf Querol 👋 <h1>   Estudiante de Ingeniería en Sistemas de Información 👨‍💻<h2>  
+# Hola, soy Olaf Querol 👋 <h1> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  Estudiante de Ingeniería en Sistemas de Información 👨‍💻<h2>  
   * 📚 Actualmente cursando **Segundo año** en la ***UTN FRBA***
   * 📚 Seundario Completo en el ***Instituto Santa Maria***
   * 👯 Buscando participar en proyectos y aprender
